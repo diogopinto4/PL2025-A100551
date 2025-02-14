@@ -15,3 +15,7 @@ Foi criado um programa em Python onde:
 ## **Implementação**
 
 A função `somador_on_off` processa o texto e soma os números encontrados, ativando/desativando a soma com as palavras-chave "On" e "Off". O resultado é exibido quando o caractere "=" é encontrado.
+
+## **Ficheiros Resultantes**
+
+- Implementação do programa: [`somador_on_off.py`](https://github.com/diogopinto4/PL2025-A100551/blob/main/TPC1/somador_on_off.py) 
