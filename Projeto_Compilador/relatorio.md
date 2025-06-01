@@ -3,6 +3,10 @@
 
 ### Projeto de Processamento de Linguagens — 2025
 
+### Grupo 19
+#### Diogo Miguel Torres Moreira de Oliveira Pinto a100551 
+#### Mariana Miguel Leão Barros Oliveira PInto a100756
+
 ---
 
 ## Introdução
